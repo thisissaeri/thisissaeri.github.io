@@ -2,8 +2,7 @@
 source              : ../
 collections_dir     : docs
 data_dir            : docs/_data
-url                 : "https://thisissaeri.github.io/"
-baseurl             : ""
+baseurl             : "/portfolYOU-test"
 repository          : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false
 
